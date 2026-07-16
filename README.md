@@ -4,7 +4,11 @@ This primary dataset contains a collection of pothole images specifically captur
 
 ## 📍 Data Acquisition
 
-Data collection focused on local roads in Bengkulu Province, specifically along a 2 km stretch of Jl. Bencoolen. This road segment was chosen based on the presence of 18 potholes that are representative as test sample objects with varying nighttime lighting characteristics, ranging from well-lit areas under street lights to completely dark areas.
+Data collection focused on local roads in Bengkulu Province, specifically along a 2 km stretch of Jl. Bencoolen. 
+
+![Route Map of Jl. Bencoolen](peta_rute_jalan.png)
+
+This road segment was chosen based on the presence of 18 potholes that are representative as test sample objects with varying nighttime lighting characteristics, ranging from well-lit areas under street lights to completely dark areas.
 
 The nighttime image capture process was carried out from a front-facing perspective using a camera mounted on a tripod at a height of 145 cm to simulate an ideal vehicle viewpoint.
 
