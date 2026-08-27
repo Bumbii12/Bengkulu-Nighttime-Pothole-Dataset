@@ -50,10 +50,7 @@ Bengkulu-Nighttime-Pothole-Dataset/
 ## 📜 License & Citation
 
 
-Currently, the dataset and related methodology are under *double-blind peer review* for journal publication. To maintain the objectivity of the review process, the authors' identities and the manuscript title are not disclosed.
-
-If you use this dataset during the review period, please provide attribution by directly referencing this repository:
-
-**Repository Link:** [https://github.com/Bumbii12/Bengkulu-Nighttime-Pothole-Dataset](https://github.com/Bumbii12/Bengkulu-Nighttime-Pothole-Dataset)
+## License
+This dataset is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 *(Note: The formal citation block will be updated here once the manuscript is officially published).*
